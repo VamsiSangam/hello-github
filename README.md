@@ -23,4 +23,4 @@ Now all that's left is for me to review your code. If everything's cool I'll mer
 
 ## Credits
 
-Liked this idea? Well, all credits to this innovative way to help beginners goes to [muan](https://github.com/muan). This repo is pretty much same as her repo [hello world](https://github.com/muan/hello-world). I am just carrying the idea. Do try to contribute to her repository too!
+Liked this idea? Well, all credits to this innovative way to help beginners goes to [muan](https://github.com/muan). This repo is pretty much same as her repo [hello world](https://github.com/muan/hello-world). I am just carrying the idea. Feel free to check out her repo too!
